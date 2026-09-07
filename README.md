@@ -53,6 +53,7 @@ You may send the following requests to the routes:
 |-----------------|----------------------------------------|-------------------------------|
 | `GET`           | "username", "password"                 | Gets the user's login details |
 | `PATCH`         | "username", "password", "new_password" | Updates the user's password   |
+
 Example JSON header:
 
 ```json
@@ -100,4 +101,3 @@ exist in the account database.
 
 #### POST
 An HTTP `POST` request sent to `/account/create` will create a new user in both the authentication and account databases.
-
