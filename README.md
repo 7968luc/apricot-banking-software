@@ -3,7 +3,11 @@
 Simulated Bank RESTful-API used for CTF hosted by Loyola University Chicago's
 [Women in Cybersecurity (WiCys)](https://wicysluc.carrd.co/?utm_source=ig&utm_medium=social&utm_content=link_in_bio) and 
 [Cybersecurity Competition Group (7968)](https://7968.org/). This repository was written by [finch](https://westwardfishdme.github.io),
-the Event Coordinator of 7968, and pentested by __pentesters will be inserted here.__ []()[]()[]()[]() 
+the Event Coordinator of 7968, and pentested by 
+
+- Chloe Basch
+- Blake Doan
+- Daniel Gaevskiy
 
 ## Important Note
 **PLEASE READ**: This program is an intentionally vulnerable REST-API that was
